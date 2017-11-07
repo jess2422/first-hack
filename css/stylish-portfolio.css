@@ -34,7 +34,9 @@ p {
 }
 
 /* Custom Button Styles */
-
+.btn {
+	margin: 20px;
+}
 .btn-dark {
   color: #fff;
   border: none;
@@ -191,7 +193,7 @@ caption {
 	caption-side: top;
 	text-align: center;
 	color: #771f00;
-	font-size: 28px;
+	font-size: 40px;
 }
 .resources {
 	margin: auto;
@@ -207,6 +209,10 @@ caption {
 	padding: 20px;
 }
 
+.more-links {
+	text-align: center;
+	font-size: 20px;
+}
 /* Portfolio */
 
 .portfolio {
